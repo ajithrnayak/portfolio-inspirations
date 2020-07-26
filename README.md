@@ -4,6 +4,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 ## Developers
 + Iheanyi Ekechukwu - https://iheanyi.com
 + Brittany Chiang - https://brittanychiang.com
++ Kristen Kwong - https://kristen.dev
 + Jacob Daniel Castro - https://jacobdcastro.com
 + Sean Coker - https://sean.is
 + Sam Soffes - https://soff.es
