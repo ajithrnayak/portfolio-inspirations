@@ -37,6 +37,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Hyam Fayed - https://www.hyumankind.com
 + Ivy Mukherjee - https://ivymukherjee.com
 + Sean Halpin - http://seanhalpin.io
++ Fenando Martinez - http://fernandodesign.com
 
 ## Studio/Agency
 + Bruvvv - https://www.bruvvv.com 
