@@ -69,3 +69,5 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Boldare - https://www.boldare.com
 + Bending Spoons - https://bendingspoons.com
 + Fueled - https://fueled.com
++ Parallel - https://www.parallelhq.com
++ Opposite - https://oppositehq.com 
