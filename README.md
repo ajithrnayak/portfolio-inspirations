@@ -25,6 +25,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Oliver Gomes - https://oliver-gomes.github.io/v4/
 + Bennett - https://bennetthardwick.com
 + Jeff Wolff - https://www.jeffwolff.net
++ Romain Avalle - https://www.romainavalle.dev 
 
 ## Designers
 + Robb Owen - https://robbowen.digital
@@ -38,6 +39,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Ivy Mukherjee - https://ivymukherjee.com
 + Sean Halpin - http://seanhalpin.io
 + Fenando Martinez - http://fernandodesign.com
++ Zhenya Rynzhuk - https://zhenyary.com
 
 ## Studio/Agency
 + Bruvvv - https://www.bruvvv.com 
@@ -71,3 +73,4 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Fueled - https://fueled.com
 + Parallel - https://www.parallelhq.com
 + Opposite - https://oppositehq.com 
++ Synchronized - https://synchronized.studio
