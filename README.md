@@ -27,6 +27,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Jeff Wolff - https://www.jeffwolff.net
 + Romain Avalle - https://www.romainavalle.dev 
 + Jacek Jeznach - https://jacekjeznach.com/
++ RICHARD EKWONYE - https://www.richardekwonye.com
 
 ## Designers
 + Robb Owen - https://robbowen.digital
