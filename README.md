@@ -42,6 +42,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Sean Halpin - http://seanhalpin.io
 + Fenando Martinez - http://fernandodesign.com
 + Zhenya Rynzhuk - https://zhenyary.com
++ Jantana Hennard - https://jant.fr
 
 ## Studio/Agency
 + Bruvvv - https://www.bruvvv.com 
