@@ -43,6 +43,8 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Fenando Martinez - http://fernandodesign.com
 + Zhenya Rynzhuk - https://zhenyary.com
 + Jantana Hennard - https://jant.fr
++ Georgemaine - https://georgemaine.com
++ Gaurav Singh - https://www.gaurav.design
 
 ## Studio/Agency
 + Bruvvv - https://www.bruvvv.com 
