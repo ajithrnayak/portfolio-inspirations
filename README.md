@@ -29,6 +29,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Jacek Jeznach - https://jacekjeznach.com/
 + RICHARD EKWONYE - https://www.richardekwonye.com
 + Dennis Snellenberg - https://dennissnellenberg.com
++ Iuri Guedes De Paula - https://iuri.is
 
 ## Designers
 + Robb Owen - https://robbowen.digital
