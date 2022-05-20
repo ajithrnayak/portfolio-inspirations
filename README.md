@@ -30,6 +30,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + RICHARD EKWONYE - https://www.richardekwonye.com
 + Dennis Snellenberg - https://dennissnellenberg.com
 + Iuri Guedes De Paula - https://iuri.is
++ Josue Espinosa - https://ejosue.com
 
 ## Designers
 + Robb Owen - https://robbowen.digital
