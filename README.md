@@ -31,6 +31,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Dennis Snellenberg - https://dennissnellenberg.com
 + Iuri Guedes De Paula - https://iuri.is
 + Josue Espinosa - https://ejosue.com
++ Cassie Evans - https://www.cassie.codes 
 
 ## Designers
 + Robb Owen - https://robbowen.digital
