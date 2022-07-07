@@ -50,6 +50,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Georgemaine - https://georgemaine.com
 + Gaurav Singh - https://www.gaurav.design
 + Brian Lovin - https://brianlovin.com
++ Lu Yu - https://luyu.co
 
 ## Studio/Agency
 + Bruvvv - https://www.bruvvv.com 
