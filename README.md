@@ -31,7 +31,8 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Dennis Snellenberg - https://dennissnellenberg.com
 + Iuri Guedes De Paula - https://iuri.is
 + Josue Espinosa - https://ejosue.com
-+ Cassie Evans - https://www.cassie.codes 
++ Cassie Evans - https://www.cassie.codes
++ Pim de Wit - https://pim.dev
 
 ## Designers
 + Robb Owen - https://robbowen.digital
@@ -51,6 +52,11 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Gaurav Singh - https://www.gaurav.design
 + Brian Lovin - https://brianlovin.com
 + Lu Yu - https://luyu.co
++ Kia Ora - https://kirschberg.co.nz
++ Marco Cornacchia - https://www.marco.fyi
++ Emily - http://emilynguyen.co
++ Cyd Stumpel - https://cydstumpel.nl
++ Isabel Moranta - https://isabelmoranta.com
 
 ## Studio/Agency
 + Bruvvv - https://www.bruvvv.com 
@@ -89,3 +95,5 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Locomotive - https://locomotive.ca/
 + Unfold - https://unfold.co
 + Oblio https://oblio.io
++ Monopo - https://monopo.london
++ Dog Studio - https://dogstudio.co
