@@ -33,6 +33,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Josue Espinosa - https://ejosue.com
 + Cassie Evans - https://www.cassie.codes
 + Pim de Wit - https://pim.dev
++ Krzysztof Zabłocki - https://www.merowing.info
 
 ## Designers
 + Robb Owen - https://robbowen.digital
