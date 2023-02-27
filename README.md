@@ -23,11 +23,10 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Saurabh Garg - https://www.gargs.nl
 + Ashi Krishnan - https://ashi.io
 + Oliver Gomes - https://oliver-gomes.github.io/v4/
-+ Bennett - https://bennetthardwick.com
 + Jeff Wolff - https://www.jeffwolff.net
 + Romain Avalle - https://www.romainavalle.dev 
 + Jacek Jeznach - https://jacekjeznach.com/
-+ RICHARD EKWONYE - https://www.richardekwonye.com
++ Richard Ekwonye - https://www.richardekwonye.com
 + Dennis Snellenberg - https://dennissnellenberg.com
 + Iuri Guedes De Paula - https://iuri.is
 + Josue Espinosa - https://ejosue.com
