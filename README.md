@@ -101,6 +101,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Narative - https://www.narative.co
 + Hello Monday - https://www.hellomonday.com
 + Ueno - https://ueno.co
++ Bright Marbles - https://brightmarbles.io
 
 ## Apps
 + Vekt - https://vekt.app
