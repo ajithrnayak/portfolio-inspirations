@@ -112,6 +112,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Klack - https://tryklack.com
 + Aux - https://sharetheaux.com
 + Mammoth - https://getmammoth.app
++ Textpal - https://www.textpal.app
 
 ## Handbook/Playbook
 + Posthog - https://posthog.com/handbook
