@@ -104,6 +104,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Ueno - https://ueno.co
 + Bright Marbles - https://brightmarbles.io
 + 2586 Labs - https://2586labs.com 
++ Antara - https://antara.studio 
 
 ## Apps
 + Vekt - https://vekt.app
