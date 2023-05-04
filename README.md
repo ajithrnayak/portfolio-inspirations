@@ -58,6 +58,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Emily - http://emilynguyen.co
 + Cyd Stumpel - https://cydstumpel.nl
 + Isabel Moranta - https://isabelmoranta.com
++ Camille Mormal - https://camillemormal.com
 
 ## Studio/Agency
 + Bruvvv - https://www.bruvvv.com 
