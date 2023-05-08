@@ -34,6 +34,8 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Pim de Wit - https://pim.dev
 + Krzysztof Zabłocki - https://www.merowing.info
 + Nick Romano - https://nickromano.us
++ OLUWADARE OLUWASEYI - https://www.seyi.dev
++ Monica Dinculescu - https://meowni.ca
 
 ## Designers
 + Robb Owen - https://robbowen.digital
