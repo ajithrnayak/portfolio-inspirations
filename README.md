@@ -36,6 +36,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + Nick Romano - https://nickromano.us
 + OLUWADARE OLUWASEYI - https://www.seyi.dev
 + Monica Dinculescu - https://meowni.ca
++ Ryan Mulligan - https://ryanmulligan.dev
 
 ## Designers
 + Robb Owen - https://robbowen.digital
