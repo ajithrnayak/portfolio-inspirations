@@ -110,6 +110,8 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + 2586 Labs - https://2586labs.com 
 + Antara - https://antara.studio 
 + Zajno - https://zajno.com
++ Aetherius - https://www.aetherius-solutions.com
++ Binary Birds - https://binarybirds.com
 
 ## Apps
 + Vekt - https://vekt.app
