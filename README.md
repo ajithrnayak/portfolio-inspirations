@@ -37,6 +37,7 @@ A few of the great portfolio websites I've found on the internet when looking fo
 + OLUWADARE OLUWASEYI - https://www.seyi.dev
 + Monica Dinculescu - https://meowni.ca
 + Ryan Mulligan - https://ryanmulligan.dev
++ Parish Khan - https://parish.cv
 
 ## Designers
 + Robb Owen - https://robbowen.digital
